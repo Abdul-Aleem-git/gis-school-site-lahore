@@ -1,0 +1,39 @@
+# OSMnx auto-generated cache (large, regenerated automatically — never commit)
+cache/
+
+# Large geospatial data files — download locally (see README for sources)
+data/
+*.tif
+*.tiff
+*.geojson
+*.json
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Outputs (add manually when ready to publish)
+docs/outputs/
+*.log
