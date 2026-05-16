@@ -1,0 +1,8580 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-30T06:50:06Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/8616657",
+        "building": "school",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3246666,
+          31.5646189
+        ]
+      },
+      "id": "relation/8616657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/8616658",
+        "building": "school",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3257301,
+          31.5644177
+        ]
+      },
+      "id": "relation/8616658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/20181932",
+        "building": "school",
+        "building:levels": "3",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5480632,
+          31.5248515
+        ]
+      },
+      "id": "relation/20181932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/164328663",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Color's Up Montessori School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3773942,
+          31.4861559
+        ]
+      },
+      "id": "way/164328663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/164328668",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Mount Pleasant High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3783246,
+          31.487078
+        ]
+      },
+      "id": "way/164328668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/232101722",
+        "amenity": "school",
+        "name": "Baeconhouse",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4208077,
+          31.5376843
+        ]
+      },
+      "id": "way/232101722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/235017538",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Govt.Girl School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4333129,
+          31.5612246
+        ]
+      },
+      "id": "way/235017538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/235017540",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Govt. Boys School",
+        "operator": "Sir Akbar",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4332035,
+          31.5623788
+        ]
+      },
+      "id": "way/235017540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/235017541",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Zahid Model High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4331315,
+          31.5622537
+        ]
+      },
+      "id": "way/235017541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/235019246",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Allamgir School",
+        "operator": "Mr.Fahad",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4341465,
+          31.5580723
+        ]
+      },
+      "id": "way/235019246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/235330050",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Govt. Pirmary School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4257085,
+          31.5606401
+        ]
+      },
+      "id": "way/235330050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271065685",
+        "amenity": "school",
+        "name": "Pak Railway Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3593391,
+          31.4875144
+        ]
+      },
+      "id": "node/271065685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271096995",
+        "amenity": "school",
+        "name": "DPS Girls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4007125,
+          31.4739484
+        ]
+      },
+      "id": "node/271096995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271107138",
+        "amenity": "school",
+        "created_by": "Potlatch 0.9c",
+        "is_in": "Lahore DHA, Lahore, Punjab, Pakistan",
+        "name": "DPS Sec Z Ph 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3835941,
+          31.4711759
+        ]
+      },
+      "id": "node/271107138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271110942",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3707576,
+          31.4671696
+        ]
+      },
+      "id": "node/271110942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271138954",
+        "amenity": "school",
+        "created_by": "Potlatch 0.9c",
+        "name": "The Lhr ALMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.38662,
+          31.4814649
+        ]
+      },
+      "id": "node/271138954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271140455",
+        "amenity": "school",
+        "created_by": "Potlatch 0.9c",
+        "name": "Lhr Grammer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3909459,
+          31.4809232
+        ]
+      },
+      "id": "node/271140455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271166561",
+        "amenity": "school",
+        "created_by": "Potlatch 0.9c",
+        "name": "Boys College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.384834,
+          31.4911305
+        ]
+      },
+      "id": "node/271166561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271696527",
+        "amenity": "school",
+        "created_by": "Potlatch 0.10e",
+        "name": "Girls Collage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3900677,
+          31.4629183
+        ]
+      },
+      "id": "node/271696527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/272275806",
+        "amenity": "school",
+        "created_by": "Potlatch 0.9c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3748012,
+          31.4631247
+        ]
+      },
+      "id": "node/272275806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/272338687",
+        "amenity": "school",
+        "created_by": "Potlatch 0.9c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3820277,
+          31.5040876
+        ]
+      },
+      "id": "node/272338687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/272388931",
+        "amenity": "school",
+        "created_by": "Potlatch 0.9c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3740884,
+          31.5693044
+        ]
+      },
+      "id": "node/272388931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/290394190",
+        "addr:street": "Bedian Road",
+        "amenity": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3958072,
+          31.4989152
+        ]
+      },
+      "id": "way/290394190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295738665",
+        "addr:city": "Lahore",
+        "addr:street": "Riwaz Garden",
+        "amenity": "school",
+        "name": "Punjab School Education Department",
+        "source": "bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3008114,
+          31.5653619
+        ]
+      },
+      "id": "way/295738665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/303276466",
+        "amenity": "school",
+        "name": "Beconhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3602632,
+          31.4793039
+        ]
+      },
+      "id": "node/303276466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/303945094",
+        "amenity": "school",
+        "created_by": "Potlatch 0.10d",
+        "name": "Shofait Intl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2791638,
+          31.4743722
+        ]
+      },
+      "id": "node/303945094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/304504129",
+        "amenity": "school",
+        "name": "COMSAT University Lahore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1984305,
+          31.4005015
+        ]
+      },
+      "id": "node/304504129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/316723531",
+        "building": "school",
+        "name": "SOAR Stem School EME Sector DHA",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2160617,
+          31.4482105
+        ]
+      },
+      "id": "way/316723531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/316882765",
+        "amenity": "school",
+        "name": "Crescent Model Higher Secondary School (Boys Campus)1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3231574,
+          31.5398683
+        ]
+      },
+      "id": "way/316882765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/316890923",
+        "amenity": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3549443,
+          31.5844827
+        ]
+      },
+      "id": "way/316890923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/317474672",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3354677,
+          31.474186
+        ]
+      },
+      "id": "way/317474672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319302622",
+        "addr:city": "Lahore",
+        "addr:neighbourhood": "Phase 6, DHA",
+        "addr:postcode": "54000",
+        "addr:state": "Punjab",
+        "architect": "OH+A",
+        "building": "school",
+        "building:levels": "4",
+        "name": "بیکن ہاؤس - نیو لینڈز",
+        "operator": "Beaconhouse School System",
+        "polling_station": "no",
+        "smoking": "no",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4584826,
+          31.4811579
+        ]
+      },
+      "id": "way/319302622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319651873",
+        "amenity": "school",
+        "name": "Oriental College - Punjab University",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3103449,
+          31.5718924
+        ]
+      },
+      "id": "way/319651873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/321064819",
+        "amenity": "school",
+        "name": "گورنمنٹ پائلٹ سیکنڈری سکول برائے طلبہ",
+        "name:en": "Government Pilot Secondary School For Boys",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.302166,
+          31.511981
+        ]
+      },
+      "id": "way/321064819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/325985769",
+        "addr:city": "Lahore",
+        "addr:street": "B-Block",
+        "building": "school",
+        "name": "Department of Electrical Engineering",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2140974,
+          31.4004904
+        ]
+      },
+      "id": "way/325985769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/327095128",
+        "building": "school",
+        "name": "Examination Office",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2059532,
+          31.4025955
+        ]
+      },
+      "id": "way/327095128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/333761985",
+        "addr:street": "Faisal Town",
+        "building": "school",
+        "name": "LGS (Landmark)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3056768,
+          31.4712672
+        ]
+      },
+      "id": "way/333761985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/333816974",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3098307,
+          31.4723135
+        ]
+      },
+      "id": "way/333816974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/359002101",
+        "amenity": "school",
+        "name": "گورنمنٹ گریجویٹ کالج آف سائنس",
+        "name:en": "Government Graduate College of Science",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2943208,
+          31.5098157
+        ]
+      },
+      "id": "way/359002101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/360085757",
+        "amenity": "school",
+        "name": "حکومتی پرائمری اسکول",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2932819,
+          31.4348199
+        ]
+      },
+      "id": "way/360085757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/360085758",
+        "amenity": "school",
+        "name": "Siqarah Boys High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2899499,
+          31.4381734
+        ]
+      },
+      "id": "way/360085758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/360085759",
+        "amenity": "school",
+        "name": "Siqarah Girls High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2888777,
+          31.4388983
+        ]
+      },
+      "id": "way/360085759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/381179133",
+        "addr:city": "Lahore",
+        "addr:street": "Barki Road",
+        "amenity": "school",
+        "name": "Lahore School of Economics",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4745999,
+          31.5025959
+        ]
+      },
+      "id": "way/381179133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/414646660",
+        "amenity": "school",
+        "name": "Message Grammar School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.181637,
+          31.4111289
+        ]
+      },
+      "id": "node/414646660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437072504",
+        "building": "school",
+        "name": "Main Building",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3900146,
+          31.4631058
+        ]
+      },
+      "id": "way/437072504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445034927",
+        "amenity": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2467069,
+          31.4922875
+        ]
+      },
+      "id": "way/445034927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445265465",
+        "amenity": "school",
+        "name": "Beacon House School Bahria Town Campus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1820229,
+          31.3684606
+        ]
+      },
+      "id": "way/445265465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/447598688",
+        "amenity": "school",
+        "name": "Rosans Islamic School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4519265,
+          31.5325586
+        ]
+      },
+      "id": "way/447598688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/500080233",
+        "addr:city": "Lahore",
+        "addr:street": "Bilal Ghang",
+        "amenity": "school",
+        "name": "City District Govt Boys High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3000843,
+          31.578994
+        ]
+      },
+      "id": "way/500080233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/500080236",
+        "addr:city": "Lahore",
+        "addr:street": "Bilal Ghang",
+        "amenity": "school",
+        "name": "اسلامیہ ہائی سکول",
+        "name:en": "Islamia High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3031541,
+          31.5818787
+        ]
+      },
+      "id": "way/500080236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/500119254",
+        "addr:city": "Lahore",
+        "addr:street": "Ravi Rd",
+        "amenity": "school",
+        "name": "MCL Boys High School QLS",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3076219,
+          31.5960183
+        ]
+      },
+      "id": "way/500119254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/533746953",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3762553,
+          31.476576
+        ]
+      },
+      "id": "node/533746953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/533746958",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.374927,
+          31.4759682
+        ]
+      },
+      "id": "node/533746958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/540214823",
+        "building": "school",
+        "name": "Beacon House Defence",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3763467,
+          31.4764626
+        ]
+      },
+      "id": "way/540214823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/540757181",
+        "amenity": "school",
+        "name": "Junior Cadet School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2950525,
+          31.4295345
+        ]
+      },
+      "id": "node/540757181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/542236596",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "addr:street": "Airport Ghazi Rd",
+        "building": "school",
+        "ele": "1",
+        "name": "Bagh-e-Rehmat Trust Elementary School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4143643,
+          31.4906861
+        ]
+      },
+      "id": "way/542236596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/542237082",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "addr:street": "Malikpur Road",
+        "building": "school",
+        "ele": "2",
+        "name": "Al-Maher Public High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.424876,
+          31.4931792
+        ]
+      },
+      "id": "way/542237082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/542242622",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "addr:street": "Service Road",
+        "building": "school",
+        "ele": "2",
+        "name": "Emmanuel Primary School",
+        "name:ur": "ایمانوئیل پرائمری اسکول",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4306085,
+          31.4915548
+        ]
+      },
+      "id": "way/542242622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/543662231",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "building": "school",
+        "ele": "2",
+        "name": "Mubeen School System",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4234752,
+          31.4818018
+        ]
+      },
+      "id": "way/543662231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/543664787",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "building": "school",
+        "ele": "2",
+        "name": "Govt. Girls High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4302149,
+          31.4808426
+        ]
+      },
+      "id": "way/543664787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/543666128",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "building": "school",
+        "ele": "2",
+        "name": "Lahore City School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4254832,
+          31.4784734
+        ]
+      },
+      "id": "way/543666128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544473114",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "building": "school",
+        "ele": "1",
+        "name": "Cantt View Public High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4164259,
+          31.4841561
+        ]
+      },
+      "id": "way/544473114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544524819",
+        "building": "school",
+        "ele": "3",
+        "name": "Defence Public School Junior Campus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.404381,
+          31.4728617
+        ]
+      },
+      "id": "way/544524819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544692857",
+        "building": "school",
+        "ele": "2",
+        "name": "DHA Senior School for Boys",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4004399,
+          31.4736897
+        ]
+      },
+      "id": "way/544692857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544707360",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "addr:street": "Malikpur Road",
+        "building": "school",
+        "ele": "2",
+        "name": "Nazeeria Islamic School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4233971,
+          31.4858341
+        ]
+      },
+      "id": "way/544707360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544711250",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "building": "school",
+        "ele": "2",
+        "name": "Turning Point",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3713351,
+          31.5000178
+        ]
+      },
+      "id": "way/544711250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544739514",
+        "building": "school",
+        "building:levels": "1",
+        "name": "Lahore Grammar School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3909942,
+          31.4809247
+        ]
+      },
+      "id": "way/544739514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544743954",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "building": "school",
+        "name": "Oracle Training Centre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3659694,
+          31.5012861
+        ]
+      },
+      "id": "way/544743954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544743965",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "building": "school",
+        "ele": "2",
+        "name": "IELTS with Laique Lodhi, Skill Glow International",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3657697,
+          31.5013114
+        ]
+      },
+      "id": "way/544743965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544945677",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "addr:street": "Bedian Road",
+        "building": "school",
+        "ele": "2",
+        "name": "Netsol Technologies",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4219092,
+          31.4806157
+        ]
+      },
+      "id": "way/544945677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544946681",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "addr:street": "Malikpur Road",
+        "building": "school",
+        "ele": "2",
+        "name": "Govt. Arif Higher Secadry School Mustaf Abad Lahore Cant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4182783,
+          31.4795882
+        ]
+      },
+      "id": "way/544946681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544976772",
+        "building": "school",
+        "ele": "2",
+        "name": "Scarsdale International School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3746472,
+          31.4632032
+        ]
+      },
+      "id": "way/544976772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544983814",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "addr:street": "Malikpur Road",
+        "building": "school",
+        "ele": "2",
+        "name": "Ali Garh Public Hiigh School & Computer College",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4154602,
+          31.4811464
+        ]
+      },
+      "id": "way/544983814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/545985276",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Sacreed Heart Cathedral Higher Secondary School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3787693,
+          31.5204043
+        ]
+      },
+      "id": "way/545985276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/545986256",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "addr:street": "Street 18",
+        "building": "school",
+        "ele": "2",
+        "name": "Allied School Defence View Campus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4148877,
+          31.4733508
+        ]
+      },
+      "id": "way/545986256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546081343",
+        "building": "school",
+        "ele": "2",
+        "name": "The Guitar School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3854847,
+          31.4641304
+        ]
+      },
+      "id": "way/546081343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546246847",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "addr:street": "Bedian Road",
+        "building": "school",
+        "ele": "2",
+        "name": "Allied School Defence Bedian Road Campus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4243782,
+          31.4734776
+        ]
+      },
+      "id": "way/546246847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546258865",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "building": "school",
+        "level": "1",
+        "name": "Shaheen Cadet Institute",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3781432,
+          31.5154927
+        ]
+      },
+      "id": "way/546258865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546258866",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "building": "school",
+        "level": "1",
+        "name": "Garrison Academy for Cambridge Studies",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.376897,
+          31.5150913
+        ]
+      },
+      "id": "way/546258866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546258867",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Garrison Academy for Boys",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3781077,
+          31.5144193
+        ]
+      },
+      "id": "way/546258867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/606609369",
+        "amenity": "school",
+        "name": "GHS Watan Islamia",
+        "name:ur": "جی ایچ ایس وطن اسلامیہ",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3264248,
+          31.5753268
+        ]
+      },
+      "id": "way/606609369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/606618800",
+        "amenity": "school",
+        "name": "Government College of Technology",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3329602,
+          31.5773901
+        ]
+      },
+      "id": "way/606618800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/606849271",
+        "amenity": "school",
+        "name": "Goverment Central Model High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3059669,
+          31.5762618
+        ]
+      },
+      "id": "way/606849271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/607798442",
+        "amenity": "school",
+        "name": "Government High School - Said Mittha Bazar",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.312492,
+          31.5840002
+        ]
+      },
+      "id": "way/607798442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/611333258",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "Government High School Baghbanpura Lahore",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3799677,
+          31.5845635
+        ]
+      },
+      "id": "way/611333258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/611903933",
+        "amenity": "school",
+        "name": "Municipal Corporation Primary & High School For Boys & Girls",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3674882,
+          31.5526821
+        ]
+      },
+      "id": "way/611903933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/611960632",
+        "amenity": "school",
+        "name": "Lady Griffin High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3419454,
+          31.570285
+        ]
+      },
+      "id": "way/611960632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/611960633",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3416299,
+          31.5703236
+        ]
+      },
+      "id": "way/611960633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/611960634",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3418097,
+          31.5704026
+        ]
+      },
+      "id": "way/611960634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/613586121",
+        "building": "school",
+        "name": "St. Hilda's",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3174126,
+          31.5646138
+        ]
+      },
+      "id": "way/613586121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/618203480",
+        "building": "school",
+        "name": "Cathedral School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.318181,
+          31.5650124
+        ]
+      },
+      "id": "way/618203480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/618358785",
+        "amenity": "school",
+        "name": "Government Degree College for Women",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3178718,
+          31.5510291
+        ]
+      },
+      "id": "way/618358785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/618358795",
+        "amenity": "school",
+        "name": "YWCA High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3210196,
+          31.5565206
+        ]
+      },
+      "id": "way/618358795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/618358796",
+        "amenity": "school",
+        "name": "Fatima Girls High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3136304,
+          31.5603317
+        ]
+      },
+      "id": "way/618358796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/618358797",
+        "amenity": "school",
+        "name": "Women's Vocational High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3095104,
+          31.5606585
+        ]
+      },
+      "id": "way/618358797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/618368053",
+        "amenity": "school",
+        "name": "Mian Iqbal Hussain High School",
+        "name:ur": "میاں اقبال حسین ہائی اسکول",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3495381,
+          31.5615568
+        ]
+      },
+      "id": "way/618368053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/618368063",
+        "building": "school",
+        "name": "St. Don Bosco School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3348329,
+          31.5674626
+        ]
+      },
+      "id": "way/618368063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/618368073",
+        "amenity": "school",
+        "name": "Islamia Girls School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3256227,
+          31.5642623
+        ]
+      },
+      "id": "way/618368073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/618368515",
+        "amenity": "school",
+        "name": "Saint Andrew's School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3450808,
+          31.5776615
+        ]
+      },
+      "id": "way/618368515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620720970",
+        "amenity": "school",
+        "name": "لیڈی میکلیگن اسکول",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3062561,
+          31.5635746
+        ]
+      },
+      "id": "way/620720970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620727722",
+        "amenity": "school",
+        "name": "Islamia High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3045723,
+          31.5714621
+        ]
+      },
+      "id": "way/620727722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620727723",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3040769,
+          31.571554
+        ]
+      },
+      "id": "way/620727723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620727724",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3044196,
+          31.5714998
+        ]
+      },
+      "id": "way/620727724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620727725",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3048102,
+          31.5711629
+        ]
+      },
+      "id": "way/620727725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620727726",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3048935,
+          31.5715606
+        ]
+      },
+      "id": "way/620727726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620727727",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3044986,
+          31.5716956
+        ]
+      },
+      "id": "way/620727727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620727728",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3041973,
+          31.5713583
+        ]
+      },
+      "id": "way/620727728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620727729",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3041463,
+          31.571746
+        ]
+      },
+      "id": "way/620727729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620729986",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3027836,
+          31.5752976
+        ]
+      },
+      "id": "way/620729986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620729987",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3034854,
+          31.5753712
+        ]
+      },
+      "id": "way/620729987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620729988",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3039619,
+          31.5750948
+        ]
+      },
+      "id": "way/620729988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620729989",
+        "amenity": "school",
+        "name": "Central model school",
+        "office": "educational_institution",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3027705,
+          31.5749887
+        ]
+      },
+      "id": "way/620729989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620729990",
+        "amenity": "school",
+        "name": "Central model school",
+        "office": "educational_institution",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3029001,
+          31.5747738
+        ]
+      },
+      "id": "way/620729990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620729991",
+        "amenity": "school",
+        "name": "Central model school",
+        "office": "educational_institution",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.303018,
+          31.5745458
+        ]
+      },
+      "id": "way/620729991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620729992",
+        "amenity": "school",
+        "name": "Central model school",
+        "office": "educational_institution",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3023076,
+          31.574724
+        ]
+      },
+      "id": "way/620729992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620729993",
+        "amenity": "school",
+        "name": "Central model school",
+        "office": "educational_institution",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3020311,
+          31.5743662
+        ]
+      },
+      "id": "way/620729993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620729994",
+        "amenity": "school",
+        "name": "Central model school",
+        "office": "educational_institution",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3023013,
+          31.5742254
+        ]
+      },
+      "id": "way/620729994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620729995",
+        "amenity": "school",
+        "name": "Central model school",
+        "office": "educational_institution",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3028564,
+          31.5741354
+        ]
+      },
+      "id": "way/620729995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620729996",
+        "amenity": "school",
+        "name": "Central model school",
+        "office": "educational_institution",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3029187,
+          31.5743518
+        ]
+      },
+      "id": "way/620729996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620729997",
+        "amenity": "school",
+        "name": "Central model school",
+        "office": "educational_institution",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3027647,
+          31.57447
+        ]
+      },
+      "id": "way/620729997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620729998",
+        "amenity": "school",
+        "name": "Central model school",
+        "office": "educational_institution",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3026374,
+          31.5746045
+        ]
+      },
+      "id": "way/620729998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620729999",
+        "amenity": "school",
+        "name": "Central model school",
+        "office": "educational_institution",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3020826,
+          31.5739672
+        ]
+      },
+      "id": "way/620729999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620962155",
+        "amenity": "school",
+        "name": "Convent of Jesus and Mary",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3405873,
+          31.5608796
+        ]
+      },
+      "id": "way/620962155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620993171",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.325092,
+          31.5649914
+        ]
+      },
+      "id": "way/620993171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620993172",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.325476,
+          31.5648762
+        ]
+      },
+      "id": "way/620993172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620993175",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3255093,
+          31.5639375
+        ]
+      },
+      "id": "way/620993175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620993176",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3258487,
+          31.5638248
+        ]
+      },
+      "id": "way/620993176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620993177",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3265069,
+          31.5640451
+        ]
+      },
+      "id": "way/620993177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620993178",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3260609,
+          31.5641422
+        ]
+      },
+      "id": "way/620993178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620993179",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3262066,
+          31.5644711
+        ]
+      },
+      "id": "way/620993179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620993180",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3265428,
+          31.5643784
+        ]
+      },
+      "id": "way/620993180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/621317137",
+        "amenity": "school",
+        "name": "Take Wala School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3359889,
+          31.5864602
+        ]
+      },
+      "id": "way/621317137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/621317148",
+        "amenity": "school",
+        "name": "Chiragh Girls School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.362545,
+          31.5828891
+        ]
+      },
+      "id": "way/621317148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/621317156",
+        "amenity": "school",
+        "name": "Girls High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3664056,
+          31.5826325
+        ]
+      },
+      "id": "way/621317156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/624644730",
+        "amenity": "school",
+        "name": "Girls Shalimar HIgh School2",
+        "name:ur": "گرلز شالیمار ہائی اسکول2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3950012,
+          31.5886609
+        ]
+      },
+      "id": "way/624644730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/674384778",
+        "building": "school",
+        "building:levels": "1",
+        "ele": "1",
+        "name": "American International School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4174459,
+          31.4923553
+        ]
+      },
+      "id": "way/674384778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/682349336",
+        "addr:city": "Lahore",
+        "addr:district": "Allama Iqbal Town",
+        "addr:housenumber": "469",
+        "addr:subdistrict": "Huma Block",
+        "addr:suburb": "Samanabad Zone",
+        "amenity": "school",
+        "name": "CDG Girls Middle School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2863603,
+          31.5232492
+        ]
+      },
+      "id": "way/682349336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/683288181",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Syed Public School, Nadirabad",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.405648,
+          31.4943404
+        ]
+      },
+      "id": "way/683288181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/683311180",
+        "building": "school",
+        "building:levels": "3",
+        "name": "سید پبلک رہِ دانش گرلز اسکول",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4045273,
+          31.4948429
+        ]
+      },
+      "id": "way/683311180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/683333319",
+        "addr:city": "Lahore",
+        "addr:postcode": "54000",
+        "building": "school",
+        "name": "Rising Star Pre-School & Academy",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4093411,
+          31.483298
+        ]
+      },
+      "id": "way/683333319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/683344196",
+        "addr:city": "Lahore",
+        "addr:street": "Gohawa Tibba, Lahore, Punjab, Pakistan",
+        "building": "school",
+        "ele": "3",
+        "name": "Govt High School، Gohawa Tibba, Lahore, Punjab, Pakistan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4287369,
+          31.4935951
+        ]
+      },
+      "id": "way/683344196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/686608889",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "2",
+        "name": "Govt. Girls High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4326791,
+          31.5144841
+        ]
+      },
+      "id": "way/686608889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/686849686",
+        "building": "school",
+        "name": "Garrison Boys High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3807253,
+          31.5248456
+        ]
+      },
+      "id": "way/686849686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/687332056",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "2",
+        "name": "Khan Foundation School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4362095,
+          31.5321083
+        ]
+      },
+      "id": "way/687332056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/687489000",
+        "addr:city": "Lahore",
+        "addr:housenumber": "32/1, J Block DHA Phase 8",
+        "building": "school",
+        "ele": "3",
+        "name": "Learning Alliance - Lahore Preschool DHA",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.436533,
+          31.5255874
+        ]
+      },
+      "id": "way/687489000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/687489001",
+        "addr:city": "Lahore",
+        "addr:housenumber": "32/3, J Block DHA Phase 8",
+        "building": "school",
+        "ele": "3",
+        "name": "LGS International",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4379031,
+          31.5255488
+        ]
+      },
+      "id": "way/687489001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/687491337",
+        "addr:city": "Lahore",
+        "addr:street": "Barki Road",
+        "building": "school",
+        "ele": "1",
+        "name": "New Sardar High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4400861,
+          31.5304864
+        ]
+      },
+      "id": "way/687491337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/688300483",
+        "addr:city": "lahore",
+        "addr:housenumber": "Main Barki Rd, Sector S DHA Phase 8, Lahore, Punjab, Pakistan",
+        "amenity": "school",
+        "name": "SCIL School Barki Road Branch",
+        "name:ur": "ایس سی آئی ایل سکول برکی روڈ برانچ",
+        "operator": "abdullah",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4696274,
+          31.5077795
+        ]
+      },
+      "id": "way/688300483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/689583865",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Army Public School",
+        "name:ur": "آرمی پبلک اسکول",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3776352,
+          31.5229953
+        ]
+      },
+      "id": "way/689583865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690185500",
+        "amenity": "school",
+        "name": "Muslim Model High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.376316,
+          31.5446281
+        ]
+      },
+      "id": "way/690185500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/691385019",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "2",
+        "name": "Allied School Paragon Campus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4450831,
+          31.5287277
+        ]
+      },
+      "id": "way/691385019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/691385021",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "2",
+        "name": "Highscore Academy",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4453526,
+          31.5273796
+        ]
+      },
+      "id": "way/691385021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/691409563",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "2",
+        "name": "The National School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4482464,
+          31.5253767
+        ]
+      },
+      "id": "way/691409563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/691417189",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "3",
+        "name": "LACAS Burki Campus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4532923,
+          31.5239502
+        ]
+      },
+      "id": "way/691417189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/699333324",
+        "building": "school",
+        "building:levels": "2",
+        "name": "پی جی ہائی سکول",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3820881,
+          31.5041074
+        ]
+      },
+      "id": "way/699333324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/699333329",
+        "building": "school",
+        "name": "Allied School RA Bazar Campus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3821789,
+          31.50275
+        ]
+      },
+      "id": "way/699333329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/699559938",
+        "building": "school",
+        "name": "Bismillah High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3939795,
+          31.4957335
+        ]
+      },
+      "id": "way/699559938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/701497213",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Govt Primary School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4850099,
+          31.5949424
+        ]
+      },
+      "id": "way/701497213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/701840226",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "3",
+        "name": "Government Girls High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4264417,
+          31.5774602
+        ]
+      },
+      "id": "way/701840226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/701840234",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "3",
+        "name": "Awais Grammar School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4217968,
+          31.5764828
+        ]
+      },
+      "id": "way/701840234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/701840258",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "3",
+        "name": "Government Boys High School Harbanspura",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4266224,
+          31.5744767
+        ]
+      },
+      "id": "way/701840258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/702356478",
+        "building": "school",
+        "building:levels": "2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.356151,
+          31.4118082
+        ]
+      },
+      "id": "way/702356478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/702358973",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Dar-e-Arqam School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3590473,
+          31.4111616
+        ]
+      },
+      "id": "way/702358973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/702604705",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "3",
+        "name": "Government Model Girls High School, Qalandar Pura",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4333022,
+          31.5748632
+        ]
+      },
+      "id": "way/702604705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/702982536",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "3",
+        "name": "Bright Future High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4310508,
+          31.5856886
+        ]
+      },
+      "id": "way/702982536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703082505",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "2",
+        "name": "Kamran Educational High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4216497,
+          31.5848351
+        ]
+      },
+      "id": "way/703082505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703325851",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "4",
+        "name": "Government Girls High School",
+        "name:ur": "گورنمنٹ گرلز ہائی اسکول",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4173323,
+          31.6072426
+        ]
+      },
+      "id": "way/703325851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/703331359",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "3",
+        "name": "Al-Huda Public Girls High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4157958,
+          31.6104146
+        ]
+      },
+      "id": "way/703331359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/704819252",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Haramain Model High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2782355,
+          31.5615082
+        ]
+      },
+      "id": "way/704819252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/705031742",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Dar-Arqam",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3533783,
+          31.4238846
+        ]
+      },
+      "id": "way/705031742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/705667071",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "3",
+        "name": "Razia Sehgal School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2645045,
+          31.5397726
+        ]
+      },
+      "id": "way/705667071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/706359375",
+        "addr:city": "Lahore",
+        "addr:street": "Ferozepur Road",
+        "building": "school",
+        "ele": "4",
+        "name": "The Educators",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3448064,
+          31.4693868
+        ]
+      },
+      "id": "way/706359375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/706359376",
+        "addr:city": "Lahore",
+        "addr:street": "Ferozepur Road",
+        "building": "school",
+        "ele": "4",
+        "name": "City District Government High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3455515,
+          31.4689632
+        ]
+      },
+      "id": "way/706359376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/706556436",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "3",
+        "name": "Qazi Girls High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3478152,
+          31.4604974
+        ]
+      },
+      "id": "way/706556436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/706572065",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "3",
+        "name": "Government High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3445062,
+          31.4571935
+        ]
+      },
+      "id": "way/706572065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/709151630",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "3",
+        "name": "Divisional Model Public High School",
+        "name:ur": "ڈویژنل ماڈل پبلک ہائی سکول",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3605251,
+          31.4610061
+        ]
+      },
+      "id": "way/709151630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/709153445",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "3",
+        "name": "Government Girls High School",
+        "name:ur": "گورنمنٹ گرلز ہائی سکول",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3614849,
+          31.4596059
+        ]
+      },
+      "id": "way/709153445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/709230167",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "3",
+        "name": "Azam Model High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.368491,
+          31.4489758
+        ]
+      },
+      "id": "way/709230167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/709230185",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "3",
+        "name": "City District Government Girls High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3643367,
+          31.4514731
+        ]
+      },
+      "id": "way/709230185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/711648283",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "3",
+        "name": "Government Degree College for Women",
+        "name:ur": "گورنمنٹ ڈگری کالج برائے خواتین",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3630141,
+          31.369527
+        ]
+      },
+      "id": "way/711648283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/715162331",
+        "amenity": "school",
+        "name": "Special Education School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3996092,
+          31.5588762
+        ]
+      },
+      "id": "way/715162331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/715162332",
+        "addr:city": "Lahore",
+        "addr:street": "Tajpura",
+        "amenity": "school",
+        "name": "Govt School Tajpura",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4026561,
+          31.5568878
+        ]
+      },
+      "id": "way/715162332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/715162337",
+        "amenity": "school",
+        "name": "Govt Boys High School Tajpura Scheme",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.405356,
+          31.5578421
+        ]
+      },
+      "id": "way/715162337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/717135752",
+        "addr:city": "Lahore",
+        "addr:street": "Bulleh Shah Rd",
+        "building": "school",
+        "ele": "3",
+        "name": "New Horizon High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3563666,
+          31.4604982
+        ]
+      },
+      "id": "way/717135752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/717135782",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "3",
+        "name": "Allied School (Hussain Campus)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3498055,
+          31.4617247
+        ]
+      },
+      "id": "way/717135782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/717147493",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "2",
+        "name": "Concept School System",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3496406,
+          31.4624975
+        ]
+      },
+      "id": "way/717147493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/719327225",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "3",
+        "name": "Government Girls High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3916587,
+          31.4464595
+        ]
+      },
+      "id": "way/719327225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/726121993",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3334554,
+          31.507798
+        ]
+      },
+      "id": "way/726121993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/728040176",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "2",
+        "name": "Town Public High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3124111,
+          31.4379857
+        ]
+      },
+      "id": "way/728040176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/729829628",
+        "addr:city": "Lahore",
+        "building": "school",
+        "ele": "2",
+        "name": "Saint Merry's School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2718636,
+          31.5398359
+        ]
+      },
+      "id": "way/729829628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/749113288",
+        "amenity": "school",
+        "name": "بحریہ ٹاؤن گرلز اسکول اینڈ کالج",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1850333,
+          31.3809333
+        ]
+      },
+      "id": "way/749113288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761662747",
+        "amenity": "school",
+        "name": "WAPDA High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3880455,
+          31.5921601
+        ]
+      },
+      "id": "way/761662747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761667173",
+        "amenity": "school",
+        "name": "گورنمنٹ بوائز اسکول",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3615609,
+          31.6023526
+        ]
+      },
+      "id": "way/761667173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761672828",
+        "amenity": "school",
+        "name": "City District Government Boys High School",
+        "operator": "سٹی ڈسٹرکٹ گورنمنٹ بوائز ہائی سکول",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3477135,
+          31.594578
+        ]
+      },
+      "id": "way/761672828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761924728",
+        "amenity": "school",
+        "name": "Sardar High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3538109,
+          31.5563143
+        ]
+      },
+      "id": "way/761924728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761924729",
+        "amenity": "school",
+        "name": "Government Urdu Medium School - Garhi Shahu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3554014,
+          31.5560623
+        ]
+      },
+      "id": "way/761924729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761929329",
+        "amenity": "school",
+        "name": "Girls Urdu College",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.371885,
+          31.5499467
+        ]
+      },
+      "id": "way/761929329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761929330",
+        "amenity": "school",
+        "name": "FG Boys High School Number 1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3738593,
+          31.549438
+        ]
+      },
+      "id": "way/761929330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761929356",
+        "amenity": "school",
+        "name": "Govt. Islamia Girls College",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3787902,
+          31.5424904
+        ]
+      },
+      "id": "way/761929356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761929362",
+        "amenity": "school",
+        "name": "Govt.Islamia High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3804214,
+          31.546552
+        ]
+      },
+      "id": "way/761929362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761929363",
+        "amenity": "school",
+        "name": "Garrison Academy for Girls",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3817075,
+          31.5405994
+        ]
+      },
+      "id": "way/761929363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761930872",
+        "amenity": "school",
+        "name": "F.G. Model High School for Girls",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3765892,
+          31.5425981
+        ]
+      },
+      "id": "way/761930872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761930873",
+        "amenity": "school",
+        "name": "Cantonment School for Boys",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3766526,
+          31.5435688
+        ]
+      },
+      "id": "way/761930873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761930875",
+        "amenity": "school",
+        "name": "Islamia High School for Girls Lahore Cantt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.378521,
+          31.5464278
+        ]
+      },
+      "id": "way/761930875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761933005",
+        "amenity": "school",
+        "name": "Garrison Junior School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3777044,
+          31.5230958
+        ]
+      },
+      "id": "way/761933005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761933006",
+        "amenity": "school",
+        "name": "Garrison Boys High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3805242,
+          31.5243016
+        ]
+      },
+      "id": "way/761933006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761933007",
+        "amenity": "school",
+        "name": "سینٹ جوزف اسکول",
+        "name:en": "Saint Joseph's School",
+        "name:ur": "سینٹ جوزف اسکول",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3833347,
+          31.5319518
+        ]
+      },
+      "id": "way/761933007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761933008",
+        "amenity": "school",
+        "name": "Azam Garrison School and College",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3814201,
+          31.5344981
+        ]
+      },
+      "id": "way/761933008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761933009",
+        "amenity": "school",
+        "name": "Army Public High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3811156,
+          31.5366089
+        ]
+      },
+      "id": "way/761933009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/762186844",
+        "amenity": "school",
+        "name": "Government Degree College",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3198448,
+          31.5732915
+        ]
+      },
+      "id": "way/762186844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/762198671",
+        "amenity": "school",
+        "name": "Deaf Model High School For Girls",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3024104,
+          31.5570812
+        ]
+      },
+      "id": "way/762198671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/776304578",
+        "addr:city": "Lahore",
+        "addr:housenumber": "483/4",
+        "addr:postcode": "54792",
+        "addr:street": "G Block Education City Phase 5 D.H.A Lahore Cantt",
+        "amenity": "school",
+        "building:levels": "5",
+        "building:levels:underground": "1",
+        "name": "Lahore Grammar School Phase V",
+        "operator": "yes",
+        "operator:type": "private",
+        "roof:colour": "red",
+        "website": "https://www.lgsdefence.edu.pk/",
+        "wheelchair": "yes",
+        "wikidata": "Q6473375",
+        "wikipedia": "en:Lahore Grammar School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3937907,
+          31.465702
+        ]
+      },
+      "id": "way/776304578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/791069191",
+        "amenity": "school",
+        "name": "The City School Paragon Campus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4503593,
+          31.5330912
+        ]
+      },
+      "id": "way/791069191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/791069192",
+        "building": "school",
+        "name": "The City School Paragon Campus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4501174,
+          31.5331439
+        ]
+      },
+      "id": "way/791069192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/791069766",
+        "building": "school",
+        "name": "Lahore Grammar School - Paragon City",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.452113,
+          31.533462
+        ]
+      },
+      "id": "way/791069766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/791069767",
+        "amenity": "school",
+        "name": "Football Field",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4517496,
+          31.533796
+        ]
+      },
+      "id": "way/791069767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/795627072",
+        "amenity": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3838598,
+          31.4709607
+        ]
+      },
+      "id": "way/795627072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/795690955",
+        "amenity": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5510268,
+          31.2789341
+        ]
+      },
+      "id": "way/795690955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/796935096",
+        "building": "school",
+        "building:levels": "3",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3709545,
+          31.4671465
+        ]
+      },
+      "id": "way/796935096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/799763332",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Lahore Schoolof Economics City Campus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3471621,
+          31.5098129
+        ]
+      },
+      "id": "way/799763332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800269681",
+        "amenity": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5554167,
+          31.2737471
+        ]
+      },
+      "id": "way/800269681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800313300",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Govt Central Model High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3489199,
+          31.5123536
+        ]
+      },
+      "id": "way/800313300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800313302",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Aligarh Public School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3494655,
+          31.5127222
+        ]
+      },
+      "id": "way/800313302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800345383",
+        "building": "school",
+        "building:levels": "2",
+        "name": "School of Contemporary and Islamic Learning Boys Branch",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.346774,
+          31.5122132
+        ]
+      },
+      "id": "way/800345383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800381063",
+        "building": "school",
+        "building:levels": "2",
+        "name": "National Grammar School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3446251,
+          31.5128752
+        ]
+      },
+      "id": "way/800381063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800400672",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3749697,
+          31.4761498
+        ]
+      },
+      "id": "way/800400672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800400673",
+        "amenity": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3751123,
+          31.4758209
+        ]
+      },
+      "id": "way/800400673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800400674",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3750248,
+          31.4754809
+        ]
+      },
+      "id": "way/800400674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800693865",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Deen Schooling System",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3483724,
+          31.5163707
+        ]
+      },
+      "id": "way/800693865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/878211369",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2811009,
+          31.5380244
+        ]
+      },
+      "id": "way/878211369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903945367",
+        "amenity": "school",
+        "name": "گورنمنٹ رنگ محل کرسچن ہائی سکول",
+        "name:en": "Rang Mahal High School",
+        "name:ur": "گورنمنٹ رنگ محل کرسچن ہائی سکول",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3191843,
+          31.5821367
+        ]
+      },
+      "id": "way/903945367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/904059881",
+        "amenity": "school",
+        "name": "Madrasa-tul-Binat Misri Shah",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3324654,
+          31.5865144
+        ]
+      },
+      "id": "way/904059881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/904059882",
+        "amenity": "school",
+        "name:ur": "اسلامیہ ہائی سکول",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3320816,
+          31.5853358
+        ]
+      },
+      "id": "way/904059882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/904059886",
+        "amenity": "school",
+        "name": "Gov't High School Chamra Mamdi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3377589,
+          31.5810592
+        ]
+      },
+      "id": "way/904059886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/904059910",
+        "amenity": "school",
+        "name": "Govt. Girls High School Wassanpura",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.34977,
+          31.5957766
+        ]
+      },
+      "id": "way/904059910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/904210064",
+        "building": "school",
+        "name": "Lahore Children's School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3420088,
+          31.5994042
+        ]
+      },
+      "id": "way/904210064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/904315297",
+        "amenity": "school",
+        "name": "Trust Model Public High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3106476,
+          31.5989363
+        ]
+      },
+      "id": "way/904315297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/904315305",
+        "amenity": "school",
+        "name": "Govt Ayesha Degree College for Women",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3035154,
+          31.6013829
+        ]
+      },
+      "id": "way/904315305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/904354195",
+        "amenity": "school",
+        "name": "Sacred Heart Convent School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3151912,
+          31.5678492
+        ]
+      },
+      "id": "way/904354195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/904354199",
+        "amenity": "school",
+        "name": "Govt High School Mozang",
+        "name:ur": "گورنمنٹ ہائی اسکول موزنگ",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3129294,
+          31.5589425
+        ]
+      },
+      "id": "way/904354199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/904565718",
+        "amenity": "school",
+        "name": "Govt. Islamia High School, Sheranwala Gate",
+        "name:ur": "گورنمنٹ اسلامیہ ہائی اسکول، شیرانوالہ گیٹ",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3246603,
+          31.5860971
+        ]
+      },
+      "id": "way/904565718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/904662414",
+        "amenity": "school",
+        "name": "Presbyterian School Lahore",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3344055,
+          31.5727125
+        ]
+      },
+      "id": "way/904662414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/904662421",
+        "amenity": "school",
+        "name": " تنویر اسلامیہ گرلز ہائی سکول",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3620394,
+          31.5466099
+        ]
+      },
+      "id": "way/904662421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905256559",
+        "amenity": "school",
+        "name": "لاہور امریکن اسکول",
+        "name:en": "Lahore American School",
+        "name:ur": "لاہور امریکن اسکول",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3534701,
+          31.5467085
+        ]
+      },
+      "id": "way/905256559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905256570",
+        "amenity": "school",
+        "name": "City District Government Girls High School Kabootarpura",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3562187,
+          31.5049359
+        ]
+      },
+      "id": "way/905256570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905256572",
+        "amenity": "school",
+        "name": "Walton Training School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3616174,
+          31.4846181
+        ]
+      },
+      "id": "way/905256572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905264805",
+        "amenity": "school",
+        "name": "Suleimania Public High School & Orphan Center",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3054543,
+          31.5328031
+        ]
+      },
+      "id": "way/905264805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905264807",
+        "amenity": "school",
+        "name": "Govt. Girls High School Samanbad",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3047821,
+          31.5421515
+        ]
+      },
+      "id": "way/905264807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905264808",
+        "amenity": "school",
+        "name": "Quran Complex And Seerat Academy",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3582098,
+          31.544341
+        ]
+      },
+      "id": "way/905264808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905264814",
+        "amenity": "school",
+        "name": "Government Muslim League High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3358621,
+          31.570406
+        ]
+      },
+      "id": "way/905264814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905331002",
+        "amenity": "school",
+        "name": "Govt High School for Boys Gulberg 2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3452038,
+          31.5269811
+        ]
+      },
+      "id": "way/905331002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905357037",
+        "amenity": "school",
+        "name": "Muhammadia Girls High School",
+        "name:ur": "محمدیہ گرلز ہائی اسکول",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3022806,
+          31.5827806
+        ]
+      },
+      "id": "way/905357037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905357038",
+        "amenity": "school",
+        "name": "Government Girls College",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2990047,
+          31.5667151
+        ]
+      },
+      "id": "way/905357038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905357039",
+        "amenity": "school",
+        "name": "Chishtia High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2995509,
+          31.5673725
+        ]
+      },
+      "id": "way/905357039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905357040",
+        "amenity": "school",
+        "name": "Govt. Higher Secondary School for Girls - Dev Samaj Road",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3007482,
+          31.5698593
+        ]
+      },
+      "id": "way/905357040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905357042",
+        "amenity": "school",
+        "name": "Islamia High School - Sant Nagar",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2988518,
+          31.5699969
+        ]
+      },
+      "id": "way/905357042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905357043",
+        "amenity": "school",
+        "name": "Lahore Model School For Boys",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2991626,
+          31.5705183
+        ]
+      },
+      "id": "way/905357043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905357061",
+        "amenity": "school",
+        "name": "Lal School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2813102,
+          31.5570323
+        ]
+      },
+      "id": "way/905357061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905357065",
+        "amenity": "school",
+        "name": "WASA Training Center",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2882479,
+          31.5465894
+        ]
+      },
+      "id": "way/905357065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905357067",
+        "amenity": "school",
+        "name": "Govt. Degree College for Women",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2804679,
+          31.5490876
+        ]
+      },
+      "id": "way/905357067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905357073",
+        "amenity": "school",
+        "name": "Chauburji Gardens High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3004284,
+          31.5491515
+        ]
+      },
+      "id": "way/905357073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905357075",
+        "amenity": "school",
+        "name": "Pakistan Post Model Girls High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2969207,
+          31.5484738
+        ]
+      },
+      "id": "way/905357075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905357078",
+        "amenity": "school",
+        "name": "سٹی ڈسٹرکٹ گورنمنٹ جونیئر ماڈل گرلز ہائی اسکول",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.292822,
+          31.5409615
+        ]
+      },
+      "id": "way/905357078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/913261090",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.445137,
+          31.4545058
+        ]
+      },
+      "id": "way/913261090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/913261091",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4454479,
+          31.4546921
+        ]
+      },
+      "id": "way/913261091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/913261092",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4451317,
+          31.4548995
+        ]
+      },
+      "id": "way/913261092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/913261093",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4449612,
+          31.4547052
+        ]
+      },
+      "id": "way/913261093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/913261094",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4454075,
+          31.4549219
+        ]
+      },
+      "id": "way/913261094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/913261095",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4454542,
+          31.4550446
+        ]
+      },
+      "id": "way/913261095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/913261101",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4449996,
+          31.4550687
+        ]
+      },
+      "id": "way/913261101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/913261102",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4450403,
+          31.4554967
+        ]
+      },
+      "id": "way/913261102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/913261103",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4449447,
+          31.4552864
+        ]
+      },
+      "id": "way/913261103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/913261104",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4452984,
+          31.4550787
+        ]
+      },
+      "id": "way/913261104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/913265328",
+        "amenity": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4453701,
+          31.4548404
+        ]
+      },
+      "id": "way/913265328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/913265329",
+        "amenity": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4451242,
+          31.4553139
+        ]
+      },
+      "id": "way/913265329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/914219800",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3373642,
+          31.5129129
+        ]
+      },
+      "id": "node/914219800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/935843937",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2597746,
+          31.5032098
+        ]
+      },
+      "id": "node/935843937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/960012775",
+        "addr:city": "Manga Mandi",
+        "addr:housenumber": "Al-Hadi Foundation",
+        "addr:postcode": "55270",
+        "addr:street": "Al-Hadi Street",
+        "building": "school",
+        "height": "7",
+        "name": "Al-Hadi Foundation School",
+        "name_1": "Al hadi",
+        "school": "al-hadi foundation",
+        "surface": "compacted",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0563431,
+          31.3035856
+        ]
+      },
+      "id": "way/960012775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/968013364",
+        "amenity": "school",
+        "name": "Govt. Special Education Center",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3150571,
+          31.5858641
+        ]
+      },
+      "id": "way/968013364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/968635865",
+        "amenity": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3220899,
+          31.581582
+        ]
+      },
+      "id": "way/968635865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/994898900",
+        "amenity": "school",
+        "denomination": "sufi",
+        "grades": "0-10",
+        "name": "Almadina High School",
+        "religion": "muslim",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3407522,
+          31.610677
+        ]
+      },
+      "id": "way/994898900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/994898901",
+        "addr:city": "lahore",
+        "addr:street": "Bhamma Main Road",
+        "amenity": "school",
+        "grades": "0-8",
+        "image": "https://www.google.com/maps/uv?pb=!1s0x39191ba6d6a33711%3A0xe6a14177e3da97c2!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMHihLwODhl01yggEVG19-xmlutw5bCh5qtRUQV%3Dw260-h175-n-k-no!5sgovt.%20school%20bhamma%20lahore%20-%20Google%20Suche!",
+        "name": "CDGL School Bhamma Lahore",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3413774,
+          31.6105603
+        ]
+      },
+      "id": "way/994898901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009506903",
+        "amenity": "school",
+        "name": "گورمنتٹ اسلامیہ کالج آف کامرس",
+        "name:en": "Govt. Islamia College of Commerce",
+        "name:ur": "گورمنتٹ اسلامیہ کالج آف کامرس",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.282844,
+          31.5118113
+        ]
+      },
+      "id": "way/1009506903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009521441",
+        "amenity": "school",
+        "name": "انجمن حمایتِ اسلام کالج",
+        "name:en": "Anjuman Himayat-e-Islam College",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2884675,
+          31.5319434
+        ]
+      },
+      "id": "way/1009521441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1014191202",
+        "amenity": "school",
+        "name": "Asifa Girls High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3103497,
+          31.5844821
+        ]
+      },
+      "id": "way/1014191202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1023471696",
+        "amenity": "school",
+        "name": "Government Girls Middle School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3179188,
+          31.5881353
+        ]
+      },
+      "id": "way/1023471696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1035593058",
+        "building": "school",
+        "name": "LACAS",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2815387,
+          31.4713743
+        ]
+      },
+      "id": "way/1035593058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1078951945",
+        "amenity": "school",
+        "name": "Adabistan-e-Soophia High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3133614,
+          31.549808
+        ]
+      },
+      "id": "way/1078951945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1116446611",
+        "addr:city": "Batapur, Lahore",
+        "addr:postcode": "53400",
+        "building": "school",
+        "building:levels": "10",
+        "name": "Govt. High School Atto-ke-Awan, Batapur",
+        "name:ur": "گورنمنٹ ہائی اسکول اٹّو کے اعوان، باٹا پور",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4915618,
+          31.5978036
+        ]
+      },
+      "id": "way/1116446611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1146993017",
+        "amenity": "school",
+        "name": "Lacas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2814124,
+          31.4713939
+        ]
+      },
+      "id": "node/1146993017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1212056849",
+        "building": "school",
+        "name": "A-1 Girls High School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3208388,
+          31.4576737
+        ]
+      },
+      "id": "way/1212056849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1223362097",
+        "amenity": "school",
+        "name": "گورنمنٹ. ماڈل گرلز ہائی سکول الہیٰ پارک وسن پورہ",
+        "name:en": "GGHS Model Elahi Park Wasan Pura",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3357518,
+          31.5879318
+        ]
+      },
+      "id": "way/1223362097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1239437294",
+        "amenity": "school",
+        "name": "American Premier School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.453506,
+          31.5755169
+        ]
+      },
+      "id": "way/1239437294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1240997112",
+        "building": "school",
+        "name": "Proposed School Site",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4502059,
+          31.5806434
+        ]
+      },
+      "id": "way/1240997112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1244563245",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4141658,
+          31.7225769
+        ]
+      },
+      "id": "way/1244563245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1245233172",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4470982,
+          31.5777784
+        ]
+      },
+      "id": "way/1245233172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1245233173",
+        "amenity": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4470682,
+          31.577239
+        ]
+      },
+      "id": "way/1245233173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1245440642",
+        "addr:city": "Lahore",
+        "addr:street": "Taj Bagh, Canal Road",
+        "amenity": "school",
+        "name": "The Punjab School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4178948,
+          31.5689552
+        ]
+      },
+      "id": "way/1245440642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1263438046",
+        "amenity": "school",
+        "name": "Bahria Town School & College, Premier Campus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1741212,
+          31.3449547
+        ]
+      },
+      "id": "way/1263438046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1263438048",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1741794,
+          31.3449236
+        ]
+      },
+      "id": "way/1263438048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1263451756",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1844957,
+          31.380791
+        ]
+      },
+      "id": "way/1263451756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1263451757",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1849926,
+          31.3812399
+        ]
+      },
+      "id": "way/1263451757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1263451758",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1852641,
+          31.3812554
+        ]
+      },
+      "id": "way/1263451758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1269536211",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2160241,
+          31.4480732
+        ]
+      },
+      "id": "node/1269536211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1273079558",
+        "building": "school",
+        "name": "Roots School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4329566,
+          31.4478329
+        ]
+      },
+      "id": "way/1273079558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1273087693",
+        "amenity": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4327732,
+          31.4479178
+        ]
+      },
+      "id": "way/1273087693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1320817248",
+        "amenity": "school",
+        "name": "GGHS Anjuman-e-Islamia Gawalmandi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3208309,
+          31.5725708
+        ]
+      },
+      "id": "way/1320817248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1320817650",
+        "amenity": "school",
+        "name": "GGHS Junior Model Gawalmandi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3205471,
+          31.5724132
+        ]
+      },
+      "id": "way/1320817650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1323300941",
+        "addr:street": "Krishna Gali No. 2",
+        "amenity": "school",
+        "name": "Government Middle School Gowalmandi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3186189,
+          31.574032
+        ]
+      },
+      "id": "way/1323300941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1344893483",
+        "amenity": "school",
+        "name": "Primary School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.330384,
+          31.534658
+        ]
+      },
+      "id": "way/1344893483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1344894179",
+        "amenity": "school",
+        "name": "لارڈز انٹرنیشنل سکول سسٹم",
+        "name:en": "The Lords International School System",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3526022,
+          31.5050095
+        ]
+      },
+      "id": "way/1344894179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1417207570",
+        "amenity": "school",
+        "name": "Government Junior Model School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2946638,
+          31.5367621
+        ]
+      },
+      "id": "way/1417207570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1417208191",
+        "amenity": "school",
+        "name": "Youth Campus School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2950038,
+          31.5387666
+        ]
+      },
+      "id": "way/1417208191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1436259184",
+        "amenity": "school",
+        "building:levels": "0",
+        "education": "school",
+        "name": "Govt School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3029322,
+          31.5763524
+        ]
+      },
+      "id": "way/1436259184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1467814810",
+        "amenity": "school",
+        "education": "school",
+        "name": "Govt Primry School Manhala Kalan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.541453,
+          31.532901
+        ]
+      },
+      "id": "way/1467814810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474324553",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.544512,
+          31.5321524
+        ]
+      },
+      "id": "way/1474324553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474324554",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5440612,
+          31.5321488
+        ]
+      },
+      "id": "way/1474324554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474691451",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.542732,
+          31.5292239
+        ]
+      },
+      "id": "way/1474691451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474691452",
+        "building": "school",
+        "building:levels": "2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5422047,
+          31.5293396
+        ]
+      },
+      "id": "way/1474691452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474691453",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5427571,
+          31.5290682
+        ]
+      },
+      "id": "way/1474691453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474691454",
+        "building": "school",
+        "building:levels": "2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5422489,
+          31.5291722
+        ]
+      },
+      "id": "way/1474691454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474691456",
+        "amenity": "school",
+        "education": "school",
+        "name": "GGHS School Manhala",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5425432,
+          31.5291721
+        ]
+      },
+      "id": "way/1474691456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474702455",
+        "amenity": "school",
+        "education": "school",
+        "name": "Govt High School Manhala",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5440148,
+          31.5321309
+        ]
+      },
+      "id": "way/1474702455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749012",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5417706,
+          31.5328573
+        ]
+      },
+      "id": "way/1474749012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749013",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5415939,
+          31.5327158
+        ]
+      },
+      "id": "way/1474749013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749014",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5417528,
+          31.5331221
+        ]
+      },
+      "id": "way/1474749014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749023",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5462121,
+          31.5261926
+        ]
+      },
+      "id": "way/1474749023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749024",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5460105,
+          31.526222
+        ]
+      },
+      "id": "way/1474749024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749025",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5459561,
+          31.5261249
+        ]
+      },
+      "id": "way/1474749025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749026",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5463007,
+          31.5259777
+        ]
+      },
+      "id": "way/1474749026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749027",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.546135,
+          31.5258727
+        ]
+      },
+      "id": "way/1474749027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749028",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5465016,
+          31.5260822
+        ]
+      },
+      "id": "way/1474749028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749038",
+        "amenity": "school",
+        "building": "school",
+        "education": "school",
+        "name": "Govt Primry School Manhala Khurd",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5462453,
+          31.5260935
+        ]
+      },
+      "id": "way/1474749038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749041",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5483373,
+          31.524785
+        ]
+      },
+      "id": "way/1474749041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749050",
+        "amenity": "school",
+        "education": "school",
+        "name": "TCF Middel Girls School Manhala",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5482255,
+          31.5249909
+        ]
+      },
+      "id": "way/1474749050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749051",
+        "building": "school",
+        "building:levels": "3",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5510806,
+          31.5229687
+        ]
+      },
+      "id": "way/1474749051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749052",
+        "building": "school",
+        "building:levels": "2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5509546,
+          31.5229669
+        ]
+      },
+      "id": "way/1474749052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749053",
+        "building": "school",
+        "building:levels": "3",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5510864,
+          31.5234152
+        ]
+      },
+      "id": "way/1474749053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749054",
+        "building": "school",
+        "building:levels": "2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5509506,
+          31.523415
+        ]
+      },
+      "id": "way/1474749054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749055",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5511547,
+          31.5234486
+        ]
+      },
+      "id": "way/1474749055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749056",
+        "amenity": "school",
+        "education": "school",
+        "name": "TCF Boy School Manhala",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5509823,
+          31.5232879
+        ]
+      },
+      "id": "way/1474749056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749057",
+        "building": "school",
+        "building:levels": "3",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5498138,
+          31.5214989
+        ]
+      },
+      "id": "way/1474749057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749058",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5498045,
+          31.5213042
+        ]
+      },
+      "id": "way/1474749058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1474749071",
+        "amenity": "school",
+        "education": "school",
+        "name": "EFA School Manhala",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5498034,
+          31.521461
+        ]
+      },
+      "id": "way/1474749071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715929574",
+        "amenity": "school",
+        "name": "Blessing Field School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3181592,
+          31.4684546
+        ]
+      },
+      "id": "node/1715929574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1749454353",
+        "amenity": "school",
+        "name": "ESNA FOUNDATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3377463,
+          31.5228645
+        ]
+      },
+      "id": "node/1749454353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2296900505",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Khalid Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3547964,
+          31.4880368
+        ]
+      },
+      "id": "node/2296900505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3206662921",
+        "amenity": "school",
+        "name": "Govt.Comprehensive Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3549294,
+          31.5845184
+        ]
+      },
+      "id": "node/3206662921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3228646370",
+        "amenity": "school",
+        "name": "Fauji Foundation School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3957538,
+          31.4989184
+        ]
+      },
+      "id": "node/3228646370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3237660807",
+        "building": "school",
+        "name": "Madrasa Tal Banat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3354735,
+          31.4742356
+        ]
+      },
+      "id": "node/3237660807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3237663887",
+        "amenity": "school",
+        "name": "Divisional Public School (DPS)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3275402,
+          31.4808306
+        ]
+      },
+      "id": "node/3237663887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3260928489",
+        "amenity": "school",
+        "name": "Saint Francis High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3103828,
+          31.5719221
+        ]
+      },
+      "id": "node/3260928489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3582187617",
+        "amenity": "school",
+        "name": "Government High School for Girls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.298518,
+          31.5075429
+        ]
+      },
+      "id": "node/3582187617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3582187618",
+        "amenity": "school",
+        "name": "Government Junior Model School",
+        "name:ur": "گورنمنٹ جونئیر ماڈل اسکول"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2997572,
+          31.5084256
+        ]
+      },
+      "id": "node/3582187618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3643340603",
+        "amenity": "school",
+        "name": "Oasis School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1958376,
+          31.333612
+        ]
+      },
+      "id": "node/3643340603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4170047792",
+        "addr:street": "Jehangir Road",
+        "amenity": "school",
+        "name": "Society Public School",
+        "opening_hours": "Mo-Fr 07:15-19:00",
+        "phone": "0423"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.38288,
+          31.5633279
+        ]
+      },
+      "id": "node/4170047792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4170047793",
+        "addr:street": "Shalimar Link Rd",
+        "amenity": "school",
+        "opening_hours": "Mo-Fr 07:30-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3829279,
+          31.5632377
+        ]
+      },
+      "id": "node/4170047793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4246311796",
+        "amenity": "school",
+        "name": "Scope Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3076859,
+          31.479516
+        ]
+      },
+      "id": "node/4246311796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4249836089",
+        "addr:street": "Raiwind Road",
+        "amenity": "school",
+        "name": "The University of lahore, Raiwand Road Campus",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2438081,
+          31.4621409
+        ]
+      },
+      "id": "node/4249836089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4262475390",
+        "amenity": "school",
+        "name": "Punjab University Centre for undergraduate studies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3058343,
+          31.5021539
+        ]
+      },
+      "id": "node/4262475390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4262478889",
+        "amenity": "school",
+        "name": "CMH Lahore Medical College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3707606,
+          31.5386517
+        ]
+      },
+      "id": "node/4262478889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4281904200",
+        "amenity": "school",
+        "name": "Beaconhouse school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3765298,
+          31.4765502
+        ]
+      },
+      "id": "node/4281904200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4281904891",
+        "amenity": "school",
+        "name": "Bridge accademy "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3450323,
+          31.5135099
+        ]
+      },
+      "id": "node/4281904891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4295714815",
+        "addr:street": "Rehmanpura",
+        "amenity": "school",
+        "name": "Ali Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3175103,
+          31.5233495
+        ]
+      },
+      "id": "node/4295714815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4295714816",
+        "addr:street": "Rehmanpura",
+        "amenity": "school",
+        "name": "Allied School - ZN Campus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3181677,
+          31.523967
+        ]
+      },
+      "id": "node/4295714816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4305867294",
+        "amenity": "school",
+        "name": "LGS Paragon Campus",
+        "opening_hours": "Mo-Su 08:00-14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4525847,
+          31.5334452
+        ]
+      },
+      "id": "node/4305867294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4316884094",
+        "addr:city": "Lahore",
+        "addr:housenumber": "30-A",
+        "addr:street": "Maulana Shaukat Ali Road",
+        "amenity": "school",
+        "name": "Kips College 30-A",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Abid Wazir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3029275,
+          31.4701234
+        ]
+      },
+      "id": "node/4316884094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4316934289",
+        "addr:housenumber": "11-A",
+        "addr:street": "Maulana Shaukat Ali Road",
+        "amenity": "school",
+        "name": "Kips College 11-A",
+        "name:ur": "کِپس کالج 11-اے",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Abid Wazir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3064167,
+          31.4675615
+        ]
+      },
+      "id": "node/4316934289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4327632889",
+        "amenity": "school",
+        "name": "Al Qalam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3810512,
+          31.5630855
+        ]
+      },
+      "id": "node/4327632889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4327632989",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3879428,
+          31.5649301
+        ]
+      },
+      "id": "node/4327632989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4338127891",
+        "addr:street": "Wahdat Road",
+        "amenity": "school",
+        "name": "Punjab University Examination Halls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2939537,
+          31.5049439
+        ]
+      },
+      "id": "node/4338127891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4339373791",
+        "addr:city": "Lahore",
+        "addr:street": "Sheikh Abdul Qadir Jillani Road",
+        "amenity": "school",
+        "name": "Islamia College Civil Lines LHR",
+        "opening_hours": "Mo-Sa 07:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3036652,
+          31.5734228
+        ]
+      },
+      "id": "node/4339373791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4365511490",
+        "addr:street": "UBD Canal Bank Road",
+        "amenity": "school",
+        "opening_hours": "Su-Th 10:00-22:00",
+        "website": "https://www.hcc.edu.pk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3036782,
+          31.4969776
+        ]
+      },
+      "id": "node/4365511490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4404141789",
+        "amenity": "school",
+        "name": "University Of Lahore Defence Road Campus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2431075,
+          31.3924151
+        ]
+      },
+      "id": "node/4404141789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4406335589",
+        "addr:street": "Zahoor Din Rd",
+        "amenity": "school",
+        "name": "Pak public foundation school",
+        "name:en": "Pak public foundation school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2842001,
+          31.5598235
+        ]
+      },
+      "id": "node/4406335589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4414399889",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3151885,
+          31.4530627
+        ]
+      },
+      "id": "node/4414399889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4416074794",
+        "addr:city": "Lahore",
+        "addr:street": "Dev Samaj Road",
+        "amenity": "school",
+        "name:en": "Dev Samaj School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3010008,
+          31.5700991
+        ]
+      },
+      "id": "node/4416074794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4451240489",
+        "addr:street": "Rehmani Road",
+        "amenity": "school",
+        "name": "Institute of Railways, Griffin Ground, Mughalpura Lahore, Pakistan",
+        "name:en": "Institute of Railways, Griffin Ground, Mughalpura Lahore, Pakistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3742618,
+          31.5631672
+        ]
+      },
+      "id": "node/4451240489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4471094389",
+        "addr:street": "Ali Road",
+        "amenity": "school",
+        "name": "Riphah International University",
+        "name:en": "Riphah International University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3155643,
+          31.4485959
+        ]
+      },
+      "id": "node/4471094389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4538885890",
+        "amenity": "school",
+        "name": "University of Sarghoda, Lahore Campus",
+        "name:en": "University of Sarghoda, Lahore Campus",
+        "website": "http://uoslahore.edu.pk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1760366,
+          31.415652
+        ]
+      },
+      "id": "node/4538885890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4542539589",
+        "addr:street": "Sundar-Raiwind Road",
+        "amenity": "school",
+        "name": "Superior College Raiwind",
+        "phone": "04235393292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2064274,
+          31.256985
+        ]
+      },
+      "id": "node/4542539589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4547389489",
+        "addr:housenumber": "A1 Madeena park",
+        "addr:postcode": "54000",
+        "addr:street": "Bedian Road",
+        "amenity": "school",
+        "email": "issac@teachers.org",
+        "name": "ISSAC",
+        "opening_hours": "Mo-Fr 07:30-14:15",
+        "operator": "Mr. Athar",
+        "phone": "04237397070",
+        "website": "https://scholar.edu.pk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4217227,
+          31.4883183
+        ]
+      },
+      "id": "node/4547389489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4551901789",
+        "addr:postcode": "54000",
+        "addr:street": "Main Bazar Green Town",
+        "amenity": "school",
+        "name": "City District Government Girls High School (Managed by Lahore South East Rotary Club)",
+        "name:en": "City District Government Girls High School (Managed by Lahore South East Rotary Club)",
+        "phone": "+92 423 5215069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3030527,
+          31.4357946
+        ]
+      },
+      "id": "node/4551901789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4584255090",
+        "amenity": "school",
+        "name": "St.Anthony's High School",
+        "name:en": "St.Anthony's High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3200421,
+          31.5591194
+        ]
+      },
+      "id": "node/4584255090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4584255190",
+        "amenity": "school",
+        "name": "Apwa School",
+        "name:en": "Apwa School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3209863,
+          31.5489199
+        ]
+      },
+      "id": "node/4584255190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4655947392",
+        "addr:street": "PAF Colony",
+        "amenity": "school",
+        "name": "Green Hall academy",
+        "opening_hours": "Mo-Fr",
+        "phone": "+924236614410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3977969,
+          31.5491597
+        ]
+      },
+      "id": "node/4655947392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4699069324",
+        "addr:housenumber": "46",
+        "addr:postcode": "54000",
+        "addr:street": "Ghazali Road",
+        "amenity": "school",
+        "name": "Government Central Model High School Samanabad Lahore",
+        "opening_hours": "Mo-Sa 08:00-14:15",
+        "operator": "Government of Punjab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.302075,
+          31.533414
+        ]
+      },
+      "id": "node/4699069324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4706323990",
+        "amenity": "school",
+        "name": "حارث کا گھر",
+        "name:en": "حارث کا گھر"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2672016,
+          31.436243
+        ]
+      },
+      "id": "node/4706323990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4713553791",
+        "addr:street": "Sui Gas Cop Socity",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3993247,
+          31.4545772
+        ]
+      },
+      "id": "node/4713553791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4743178921",
+        "amenity": "school",
+        "name": "Corvit Lahore",
+        "name:en": "Corvit Lahore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.346275,
+          31.514075
+        ]
+      },
+      "id": "node/4743178921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4746664924",
+        "amenity": "school",
+        "name": "Corvit Class Rooms",
+        "name:en": "Corvit Class Rooms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3473953,
+          31.5148404
+        ]
+      },
+      "id": "node/4746664924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4772160621",
+        "addr:street": "Syed Kabir Ali Shah Road",
+        "amenity": "school",
+        "name": "Punjab University College of Information Technology (PUCIT)",
+        "name:en": "Punjab University College of Information Technology (PUCIT)",
+        "website": "https://pucit.edu.pk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2651695,
+          31.4785966
+        ]
+      },
+      "id": "node/4772160621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4778176640",
+        "addr:street": "Raiwind Road",
+        "amenity": "school",
+        "name": "University of Sourh Asia , Raiwind Campus",
+        "opening_hours": "Mo-Sa 08:00-19:00",
+        "website": "https://www.usa.edu.pk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2311281,
+          31.4250952
+        ]
+      },
+      "id": "node/4778176640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4794984423",
+        "amenity": "school",
+        "name": "Fazaia Intermediate College",
+        "name:en": "Fazaia Intermediate College",
+        "name:ur": "فضائیہ انٹرمیڈیٹ کالج"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3936913,
+          31.5184828
+        ]
+      },
+      "id": "node/4794984423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4840099423",
+        "amenity": "school",
+        "name": "Hajvery University Euro Campus",
+        "name:en": "Hajvery University Euro Campus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3582433,
+          31.5042582
+        ]
+      },
+      "id": "node/4840099423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4893314021",
+        "addr:street": "Durand Road",
+        "amenity": "school",
+        "name:en": "Convent of Jesus and Mary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3399888,
+          31.5614789
+        ]
+      },
+      "id": "node/4893314021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4896578421",
+        "addr:postcode": "57000",
+        "addr:street": "Karim Blk AIT",
+        "amenity": "school",
+        "name": "Govt. High School for boys",
+        "name:en": "Govt. High School for boys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.275196,
+          31.5044955
+        ]
+      },
+      "id": "node/4896578421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4896578521",
+        "addr:postcode": "57000",
+        "addr:street": "Hasrat Mohani Road",
+        "amenity": "school",
+        "name": "Govt. High School for girls",
+        "name:en": "Govt. High School for girls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2845567,
+          31.5116845
+        ]
+      },
+      "id": "node/4896578521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4907505323",
+        "addr:city": "Rana Town",
+        "addr:street": "Grand Trunk Road",
+        "amenity": "school",
+        "name": "Worker Welfare School (Boys) Rana Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2768261,
+          31.680213
+        ]
+      },
+      "id": "node/4907505323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4907505345",
+        "addr:city": "Ferozwala",
+        "addr:street": "Grand Trunk Road",
+        "amenity": "school",
+        "name": "Government Boys High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2838968,
+          31.6471249
+        ]
+      },
+      "id": "node/4907505345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4907505349",
+        "addr:city": "Ferozwala",
+        "addr:street": "Grand Trunk Road",
+        "amenity": "school",
+        "name": "Hashmat School System"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2828184,
+          31.6465583
+        ]
+      },
+      "id": "node/4907505349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4909385122",
+        "addr:street": "Karim Blk AIT",
+        "amenity": "school",
+        "name": "Govt. High School for boys",
+        "name:en": "Govt. High School for boys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2751302,
+          31.5044956
+        ]
+      },
+      "id": "node/4909385122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4909417022",
+        "amenity": "school",
+        "name": "RPS. Muhafiz Town",
+        "name:en": "RPS. Muhafiz Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2219253,
+          31.4516111
+        ]
+      },
+      "id": "node/4909417022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4909438421",
+        "addr:street": "B block Muhafiz Town",
+        "amenity": "school",
+        "name": "Iqra Public School",
+        "name:en": "Iqra Public School",
+        "name:ur": "اقرا پبلک اسکول"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2176263,
+          31.452908
+        ]
+      },
+      "id": "node/4909438421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4910219499",
+        "addr:city": "Shahdara",
+        "addr:street": "Grand Trunk Road",
+        "amenity": "school",
+        "name": "CDG Boys High School, Factory Area Shahdara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2889795,
+          31.626028
+        ]
+      },
+      "id": "node/4910219499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4910585749",
+        "addr:city": "Shahdara",
+        "addr:street": "Grand Trunk Road",
+        "amenity": "school",
+        "name": "گورنمنٹ ہائی اسکول شاہدرہ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2925072,
+          31.6226065
+        ]
+      },
+      "id": "node/4910585749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4910585754",
+        "addr:city": "Shahdara",
+        "addr:street": "Band Road Shahdara Town",
+        "amenity": "school",
+        "name": "Muslim Ideal School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3047632,
+          31.6260406
+        ]
+      },
+      "id": "node/4910585754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4910585791",
+        "addr:city": "Shahdara",
+        "addr:street": "Jaranwala - Lahore Road",
+        "amenity": "school",
+        "name": "Bait-ur-Raffah Maktab Girls High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2688567,
+          31.6134028
+        ]
+      },
+      "id": "node/4910585791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4910585804",
+        "addr:city": "Shahdara",
+        "addr:street": "Jaranwala - Lahore Road",
+        "amenity": "school",
+        "name": "The Oriel School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2807047,
+          31.6174028
+        ]
+      },
+      "id": "node/4910585804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4912198448",
+        "addr:city": "Sheikhupura",
+        "addr:street": "Sheikhupura - Sargodha Road",
+        "amenity": "school",
+        "name": "Al-Faisal School System"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0051914,
+          31.7074519
+        ]
+      },
+      "id": "node/4912198448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4912198455",
+        "addr:city": "Sheikhupura",
+        "addr:street": "Sheikhupura - Sargodha Road",
+        "amenity": "school",
+        "name": "Allied Schools Zalmas Campus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0037087,
+          31.7089298
+        ]
+      },
+      "id": "node/4912198455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4912291863",
+        "addr:city": "Lahore",
+        "addr:street": "Lnk Ravi Road",
+        "amenity": "school",
+        "name": "EFA School Naseem Campus",
+        "name:ur": "ای ایف اے سکول نسیم کیمپس"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3040613,
+          31.5896009
+        ]
+      },
+      "id": "node/4912291863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4912291867",
+        "addr:city": "Lahore",
+        "addr:street": "Data Darbar Road",
+        "amenity": "school",
+        "name": "Farooqi Grammar School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3049209,
+          31.5875828
+        ]
+      },
+      "id": "node/4912291867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4912439080",
+        "addr:city": "Lahore",
+        "addr:street": "Sheikh Abdul Qadir Jillani Road",
+        "amenity": "school",
+        "name": "Government Muslim Model School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3025874,
+          31.5742747
+        ]
+      },
+      "id": "node/4912439080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4912439081",
+        "addr:city": "Lahore",
+        "addr:street": "Rettigan Road",
+        "amenity": "school",
+        "name": "Central Model School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3030428,
+          31.5750055
+        ]
+      },
+      "id": "node/4912439081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4912439083",
+        "addr:city": "Lahore",
+        "addr:street": "Lower Mall",
+        "amenity": "school",
+        "name": "Govt. Saleem Model High School",
+        "name:ur": "حکومت سلیم ماڈل ہائی سکول"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3069578,
+          31.5754558
+        ]
+      },
+      "id": "node/4912439083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4912575642",
+        "addr:city": "Lahore",
+        "addr:street": "Badami Bagh Flyover",
+        "amenity": "school",
+        "name": "Al Karam High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3170424,
+          31.5989929
+        ]
+      },
+      "id": "node/4912575642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4912575649",
+        "addr:city": "Lahore",
+        "addr:street": "Ravi Rd",
+        "amenity": "school",
+        "name": "Govt Girls High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3083603,
+          31.5966157
+        ]
+      },
+      "id": "node/4912575649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4912575658",
+        "addr:city": "Lahore",
+        "addr:street": "Ravi Rd",
+        "amenity": "school",
+        "name": "Allied School Ravi Road Campus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3065875,
+          31.5961837
+        ]
+      },
+      "id": "node/4912575658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4912575663",
+        "addr:city": "Lahore",
+        "addr:street": "Circular Road",
+        "amenity": "school",
+        "name:ur": "تنظیم المدارس اہلسنت"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3074869,
+          31.5931485
+        ]
+      },
+      "id": "node/4912575663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4914838140",
+        "addr:city": "Lahore",
+        "addr:street": "Circular Road",
+        "amenity": "school",
+        "name": "Government Model High School",
+        "name:ur": "گورنمنٹ ماڈل ہائی اسکول"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3302178,
+          31.486309
+        ]
+      },
+      "id": "node/4914838140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4914838142",
+        "addr:city": "Lahore",
+        "addr:street": "Circular Road",
+        "amenity": "school",
+        "name": "Govt. Junior Model School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3306726,
+          31.4838584
+        ]
+      },
+      "id": "node/4914838142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916250319",
+        "addr:city": "Lahore",
+        "addr:street": "Circular Road",
+        "amenity": "school",
+        "name": "DPS Boys Wing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3283693,
+          31.4809896
+        ]
+      },
+      "id": "node/4916250319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916250624",
+        "addr:city": "Lahore",
+        "addr:street": "Circular Road",
+        "amenity": "school",
+        "name": "DPS Girls Wing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3249929,
+          31.4802919
+        ]
+      },
+      "id": "node/4916250624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916250626",
+        "addr:city": "Lahore",
+        "addr:street": "Circular Road",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3227834,
+          31.4886387
+        ]
+      },
+      "id": "node/4916250626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916640089",
+        "addr:city": "Lahore",
+        "addr:street": "Ferozepur Road",
+        "amenity": "school",
+        "name": "Beaconhouse School System Garden Town Campus",
+        "name:ur": "بیکن ہاؤس اسکول سسٹم گارڈن ٹاؤن کیمپس"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3293947,
+          31.5056302
+        ]
+      },
+      "id": "node/4916640089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916640091",
+        "addr:city": "Lahore",
+        "addr:street": "Main Boulevard Garden Town",
+        "amenity": "school",
+        "name": "Allied School",
+        "name:ur": "الائیڈ سکول"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.329154,
+          31.50455
+        ]
+      },
+      "id": "node/4916640091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916640092",
+        "addr:city": "Lahore",
+        "addr:street": "Main Boulevard Garden Town",
+        "amenity": "school",
+        "name": "The City School",
+        "name:ur": "سٹی سکول"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3290726,
+          31.5038408
+        ]
+      },
+      "id": "node/4916640092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916641137",
+        "addr:city": "Lahore",
+        "addr:street": "Usmani Road",
+        "amenity": "school",
+        "name": "Unique High School",
+        "name:ur": "منفرد ہائی سکول"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3096416,
+          31.4917138
+        ]
+      },
+      "id": "node/4916641137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916641138",
+        "addr:city": "Lahore",
+        "addr:street": "Usmani Road",
+        "amenity": "school",
+        "name": "American Lycetuff School",
+        "name:ur": "امریکن لائسیٹف سکول"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3056721,
+          31.4874567
+        ]
+      },
+      "id": "node/4916641138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916641142",
+        "addr:city": "Lahore",
+        "addr:street": "Usmani Road",
+        "amenity": "school",
+        "name": "The City School Model Town Junior",
+        "name:ur": "سٹی سکول ماڈل ٹاؤن جونیئر"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3060452,
+          31.4880421
+        ]
+      },
+      "id": "node/4916641142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916641144",
+        "addr:city": "Lahore",
+        "addr:street": "Abdul Hassan Isfahani Road",
+        "amenity": "school",
+        "name": "The Educators",
+        "name:ur": "معلمین"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3047677,
+          31.4859451
+        ]
+      },
+      "id": "node/4916641144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916641150",
+        "addr:city": "Lahore",
+        "addr:street": "Usmani Road",
+        "amenity": "school",
+        "name": "Leads School System"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2991286,
+          31.4836013
+        ]
+      },
+      "id": "node/4916641150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916785719",
+        "addr:city": "Lahore",
+        "addr:street": "Maulana Shaukat Ali Road",
+        "amenity": "school",
+        "name": "American Lycetuff School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3021375,
+          31.4723262
+        ]
+      },
+      "id": "node/4916785719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916786449",
+        "addr:city": "Lahore",
+        "addr:street": "Maulana Shaukat Ali Road",
+        "amenity": "school",
+        "name": "American Lyceum School System"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3125044,
+          31.4652153
+        ]
+      },
+      "id": "node/4916786449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916786458",
+        "addr:city": "Lahore",
+        "addr:street": "Maulana Shaukat Ali Road",
+        "amenity": "school",
+        "name": "The City School (Township Junior)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3202922,
+          31.4626812
+        ]
+      },
+      "id": "node/4916786458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916786465",
+        "addr:city": "Lahore",
+        "addr:street": "Maulana Shaukat Ali Road",
+        "amenity": "school",
+        "name": "Beaconhouse School System"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3248968,
+          31.4603428
+        ]
+      },
+      "id": "node/4916786465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916899716",
+        "addr:city": "Lahore",
+        "addr:street": "Ferozepur Road",
+        "amenity": "school",
+        "name": "The Right School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3322366,
+          31.5035769
+        ]
+      },
+      "id": "node/4916899716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916900828",
+        "addr:city": "Lahore",
+        "addr:street": "Service Road",
+        "amenity": "school",
+        "name": "London School of Management & Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3356027,
+          31.495529
+        ]
+      },
+      "id": "node/4916900828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916900829",
+        "addr:city": "Lahore",
+        "addr:street": "Service Road",
+        "amenity": "school",
+        "name": "Dawn Model School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3354299,
+          31.4959312
+        ]
+      },
+      "id": "node/4916900829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4920146656",
+        "addr:city": "Lahore",
+        "addr:street": "Ferozepur Road",
+        "amenity": "school",
+        "name": "The Educators"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3451168,
+          31.4694252
+        ]
+      },
+      "id": "node/4920146656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4958901223",
+        "amenity": "school",
+        "name": "skans abu bakar",
+        "name:en": "skans abu bakar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3237318,
+          31.5122971
+        ]
+      },
+      "id": "node/4958901223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4970685237",
+        "addr:city": "Lahore",
+        "addr:country": "PK",
+        "amenity": "school",
+        "name": "Deen Schooling System",
+        "website": "https://www.deenschooling.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3482593,
+          31.5164559
+        ]
+      },
+      "id": "node/4970685237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4974663322",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2866889,
+          31.5200864
+        ]
+      },
+      "id": "node/4974663322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4974663323",
+        "amenity": "school",
+        "name": "American Lycetuff",
+        "name:en": "American Lycetuff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2964914,
+          31.5188148
+        ]
+      },
+      "id": "node/4974663323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4974663721",
+        "amenity": "school",
+        "name": "American Lycetuff",
+        "name:en": "American Lycetuff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2981463,
+          31.5178888
+        ]
+      },
+      "id": "node/4974663721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4974663921",
+        "amenity": "school",
+        "name": "Stars Academy",
+        "name:en": "Stars Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2904752,
+          31.5177549
+        ]
+      },
+      "id": "node/4974663921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5010999141",
+        "addr:street": "College Road",
+        "amenity": "school",
+        "name": "university of Education"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2981625,
+          31.4477802
+        ]
+      },
+      "id": "node/5010999141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5102292821",
+        "amenity": "school",
+        "name": "Knowledge School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3146664,
+          31.5205347
+        ]
+      },
+      "id": "node/5102292821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5188813721",
+        "amenity": "school",
+        "name": "Cathedral School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3169242,
+          31.5639872
+        ]
+      },
+      "id": "node/5188813721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5251896816",
+        "addr:city": "Lahore",
+        "addr:street": "Bedian Road",
+        "amenity": "school",
+        "name": "Meridian's School System & Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4180534,
+          31.4848083
+        ]
+      },
+      "id": "node/5251896816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5252199942",
+        "addr:city": "Lahore",
+        "addr:street": "Gulberg",
+        "amenity": "school",
+        "name": "St. Marys High School Gulberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3535248,
+          31.51947
+        ]
+      },
+      "id": "node/5252199942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5255279617",
+        "addr:city": "Lahore",
+        "addr:street": "Shalimar Link Road",
+        "amenity": "school",
+        "name": "LGS Shalimar Branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3813258,
+          31.5766181
+        ]
+      },
+      "id": "node/5255279617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5273669395",
+        "addr:city": "Lahore",
+        "addr:street": "Durand Road",
+        "amenity": "school",
+        "name": "Convent of Jesus and Mary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3400449,
+          31.5613154
+        ]
+      },
+      "id": "node/5273669395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5470536021",
+        "addr:housenumber": "20",
+        "addr:street": "Faisal Town",
+        "amenity": "school",
+        "name": "Saint Anthony High School",
+        "phone": "+924235166486",
+        "website": "https://stanthonysft.edu.pk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3011789,
+          31.480188
+        ]
+      },
+      "id": "node/5470536021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5737704522",
+        "addr:city": "Lahore",
+        "addr:housenumber": "Main Campus",
+        "addr:postcode": "54000",
+        "addr:street": "Sector C DHA Phase 6",
+        "amenity": "school",
+        "denomination": "muslim",
+        "grades": "12",
+        "name": "Lahore Garission University",
+        "name:ur": "لاہور گیریژن یونیورسٹی",
+        "religion": "muslim",
+        "website": "info@lgu.edu.pk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4431405,
+          31.4637789
+        ]
+      },
+      "id": "node/5737704522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5754766122",
+        "amenity": "school",
+        "name": "Host",
+        "name:en": "Hostel 9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3224881,
+          31.5125266
+        ]
+      },
+      "id": "node/5754766122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5759425670",
+        "amenity": "school",
+        "name": "حکومت وکٹوریہ گرلز ہائر سیکنڈری سکول",
+        "name:en": "Victoria Girls School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3113139,
+          31.5793746
+        ]
+      },
+      "id": "node/5759425670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6180693685",
+        "addr:street": "Ghazali Road",
+        "amenity": "school",
+        "name": "The Educators Al Rauf Campus",
+        "opening_hours": "Mo-Fr 06:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.303295,
+          31.5313314
+        ]
+      },
+      "id": "node/6180693685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6369748585",
+        "amenity": "school",
+        "name": "Institute Of Quality And Technology Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3007836,
+          31.4965038
+        ]
+      },
+      "id": "node/6369748585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6488951387",
+        "amenity": "school",
+        "name": "شہری ضلع اسکول"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3741113,
+          31.5695438
+        ]
+      },
+      "id": "node/6488951387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6514180539",
+        "amenity": "school",
+        "name": "Al-Hadi Foundation School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4043219,
+          31.5864054
+        ]
+      },
+      "id": "node/6514180539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6514190911",
+        "addr:city": "Manga Mandi",
+        "addr:housenumber": "Al-Hadi Foundation",
+        "addr:postcode": "55270",
+        "addr:street": "National Highway",
+        "amenity": "school",
+        "name": "Al-Hadi Foundation School",
+        "operator": "Tanveer Akhtar",
+        "phone": "+923004140046",
+        "religion": "muslim",
+        "website": "https://ahf.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0561437,
+          31.3034455
+        ]
+      },
+      "id": "node/6514190911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6591968693",
+        "amenity": "school",
+        "name": "The Readers School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2889328,
+          31.5226451
+        ]
+      },
+      "id": "node/6591968693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7244237485",
+        "addr:street": "32, Sundardas Road, Off Davis Rd",
+        "amenity": "school",
+        "name": "NCBMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3414545,
+          31.5554728
+        ]
+      },
+      "id": "node/7244237485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7441169947",
+        "amenity": "school",
+        "name": "GOVT. School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5509968,
+          31.2788024
+        ]
+      },
+      "id": "node/7441169947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7796809886",
+        "addr:street": "Sultanpura",
+        "amenity": "school",
+        "name": "Pak Model School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3434899,
+          31.5837955
+        ]
+      },
+      "id": "node/7796809886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8285774417",
+        "amenity": "school",
+        "name": "SKANS CA campus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3322323,
+          31.4997588
+        ]
+      },
+      "id": "node/8285774417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8398484969",
+        "amenity": "school",
+        "name": "Gov't Primary School Ahmedabad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2399246,
+          31.4831179
+        ]
+      },
+      "id": "node/8398484969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459989517",
+        "addr:street": "Raiwind Road",
+        "amenity": "school",
+        "email": "gpstibbapajian@gmail.com",
+        "name": "GPS Tibba Pajian Raiwind Road",
+        "phone": "00923164830116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2263432,
+          31.3086876
+        ]
+      },
+      "id": "node/8459989517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9235313993",
+        "addr:city": "Raiwind",
+        "addr:housenumber": "Mohalla Islamabad",
+        "addr:street": "Kasur Raiwind Road",
+        "amenity": "school",
+        "name": "Challengers Grammer High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2220236,
+          31.2397238
+        ]
+      },
+      "id": "node/9235313993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9235322327",
+        "addr:city": "Raiwind",
+        "addr:country": "PK",
+        "addr:street": "Pattoki-Raiwind Road",
+        "amenity": "school",
+        "name": "سینٹ میری اسکول، مشن کمپاؤنڈ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2118335,
+          31.2383148
+        ]
+      },
+      "id": "node/9235322327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9253337555",
+        "addr:city": "Raiwind",
+        "addr:country": "PK",
+        "addr:street": "رائے ونڈ روڈ",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2179028,
+          31.2471455
+        ]
+      },
+      "id": "node/9253337555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9451069565",
+        "amenity": "school",
+        "name": "Naqsh School of Arts",
+        "name:ur": "نقش اسکول آف آرٹس"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3096668,
+          31.5834861
+        ]
+      },
+      "id": "node/9451069565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9673745117",
+        "addr:housenumber": "483/3 Sector G",
+        "amenity": "school",
+        "contact:facebook": "tnsbeaconhouse",
+        "contact:instagram": "tns.dha",
+        "name": "TNS Beaconhouse Defence",
+        "website": "https://tns.edu.pk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3938025,
+          31.4639941
+        ]
+      },
+      "id": "node/9673745117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10066722817",
+        "amenity": "school",
+        "name": "Al Burhan",
+        "website": "http://Www.aburhan.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3527941,
+          31.5106187
+        ]
+      },
+      "id": "node/10066722817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10066722917",
+        "amenity": "school",
+        "name": "Al Burhan",
+        "website": "http://Www.alburhan.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3527512,
+          31.50927
+        ]
+      },
+      "id": "node/10066722917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10279641409",
+        "addr:housenumber": "64",
+        "addr:street": "Aashiana-e-Quaid Housing Scheme",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3863215,
+          31.4267435
+        ]
+      },
+      "id": "node/10279641409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11872569182",
+        "addr:city": "Lahore",
+        "addr:street": "Usmani Road",
+        "amenity": "school",
+        "name": "SKANS School of Accountancy ACCA Campus",
+        "name:ur": "SKANS سکول آف اکاؤنٹنسی ACCA کیمپس"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3127024,
+          31.4952076
+        ]
+      },
+      "id": "node/11872569182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12442461774",
+        "amenity": "school",
+        "name": "American National School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.351436,
+          31.5038266
+        ]
+      },
+      "id": "node/12442461774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13255813504",
+        "addr:city": "Lahore",
+        "addr:street": "Formanites Housing Scheme, Block A",
+        "amenity": "school",
+        "education": "school",
+        "name": "Leads School System, Formanites Campus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4084934,
+          31.4432256
+        ]
+      },
+      "id": "node/13255813504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13382680422",
+        "amenity": "school",
+        "check_date": "2025-12-17",
+        "education": "school",
+        "name": "The Trust School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2556129,
+          31.4336654
+        ]
+      },
+      "id": "node/13382680422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13417619802",
+        "addr:city": "Lahore",
+        "addr:street": "Zarar Shaheed Road",
+        "amenity": "school",
+        "education": "school",
+        "name": "Inernational Grammar School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4214901,
+          31.5439779
+        ]
+      },
+      "id": "node/13417619802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13475388701",
+        "amenity": "school",
+        "name": "LACAS ALJT",
+        "opening_hours": "Su-Fr 08:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2940988,
+          31.4694972
+        ]
+      },
+      "id": "node/13475388701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13475388702",
+        "amenity": "school",
+        "name": "Lecole Mondiale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2950748,
+          31.463559
+        ]
+      },
+      "id": "node/13475388702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13526574807",
+        "addr:city": "Manhala",
+        "addr:street": "منہالہ روڈ",
+        "amenity": "school",
+        "name": "Govt Primary School Manhala Kalan",
+        "school": "primary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5414226,
+          31.5329467
+        ]
+      },
+      "id": "node/13526574807"
+    }
+  ]
+}
