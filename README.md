@@ -24,7 +24,7 @@ It combines four open-source datasets, applies Kernel Density Estimation (KDE), 
 ```
 MSDS25022_GSBSS_FMS/
 │
-├── MSDS25022_GIS_School_Site_Selection.ipynb   ← Main notebook (16 sections)
+├── MSDS25022_GIS_Based_Site_Selection.ipynb   ← Main notebook (16 sections)
 ├── README.md                                    ← This file
 │
 ├── Data/                    ← Place all raw data files here before running
